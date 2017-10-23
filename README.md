@@ -10,4 +10,3 @@
  * PyCharm
  * SenseHAT
 3. Git-CLI
-
